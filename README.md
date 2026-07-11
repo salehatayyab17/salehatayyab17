@@ -16,8 +16,8 @@
 
 ##  Currently
 
-- Looking for Software Engineering internship opportunities
-- Improving my skills in React.js and Node.js
+- Working as a Software Engineer intern
+- Improving my skills in backend with MERN stack
 
 ##  Connect with me
 
