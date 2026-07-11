@@ -1,3 +1,4 @@
+![Snake animation](https://raw.githubusercontent.com/salehatayyab17/salehatayyab17/output/github-contribution-grid-snake-dark.svg)
 # Hi, I'm Saleha Tayyab
 
  BS Software Engineering student | 5th Semester at NUML, Faisalabad
