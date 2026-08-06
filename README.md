@@ -1,7 +1,7 @@
 # Hi, I'm Saleha Tayyab
 
  BS Software Engineering student | 5th Semester at NUML, Faisalabad
- Frontend Developer | Learning Full-Stack Development
+ Frontend Developer Intern | Learning Full-Stack Development
 
 ##  Tech Stack
 
