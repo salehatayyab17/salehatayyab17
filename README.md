@@ -22,5 +22,18 @@
 ##  Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleha-asim-6b2704402/)
+## 📊 GitHub Stats
+
+![Saleha's GitHub stats](https://github-readme-stats.vercel.app/api?username=salehatayyab17&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salehatayyab17&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![trophies](https://github-profile-trophy.vercel.app/?username=salehatayyab17&theme=radical&row=1&column=6)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salehatayyab17&theme=radical)
 
 ![Snake animation](https://raw.githubusercontent.com/salehatayyab17/salehatayyab17/output/github-contribution-grid-snake-dark.svg)
