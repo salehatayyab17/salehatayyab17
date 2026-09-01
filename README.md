@@ -23,12 +23,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleha-asim-6b2704402/)
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=salehatayyab17&show_icons=true&theme=radical)
-
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salehatayyab17&theme=radical)
-
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=salehatayyab17&theme=radical&hide_border=true&border_radius=10)
 
 
 ![Snake animation](https://raw.githubusercontent.com/salehatayyab17/salehatayyab17/output/github-contribution-grid-snake-dark.svg)
