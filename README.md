@@ -23,8 +23,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleha-asim-6b2704402/)
 
-## 🔥 Streak Stats
+##  Streak Stats
 
-![Streak](https://streak-stats.demolab.com/?user=salehatayyab17&theme=radical&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=salehatayyab17&theme=radical" width="100%" />
 
 ![Snake animation](https://raw.githubusercontent.com/salehatayyab17/salehatayyab17/output/github-contribution-grid-snake-dark.svg)
