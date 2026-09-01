@@ -25,6 +25,6 @@
 
 ##  Streak Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salehatayyab17&theme=radical" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=salehatayyab17&theme=radical" width="100%" height="200" />
 
 ![Snake animation](https://raw.githubusercontent.com/salehatayyab17/salehatayyab17/output/github-contribution-grid-snake-dark.svg)
