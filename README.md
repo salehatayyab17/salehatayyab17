@@ -1,15 +1,7 @@
-<table>
-<tr>
-<td width="30%">
-  <img src="WhatsApp_Image_2026-08-23_at_22_09_14.jpeg" width="100%" style="border-radius: 12px;" />
-</td>
-<td width="70%">
- $ whoami
-Saleha Tayyab
+# Hi, I'm Saleha Tayyab
 
-$ cat about.txt
-Hi, I'm Saleha — a BS Software Engineering student and Frontend
-Engineer Intern, learning full-stack development with the MERN stack.
+ BS Software Engineering student | 5th Semester at NUML, Faisalabad
+ Frontend Developer Intern | Learning Full-Stack Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleha-asim-6b2704402/)
 
