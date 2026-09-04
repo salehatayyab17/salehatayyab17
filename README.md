@@ -37,10 +37,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleha-asim-6b2704402/)
 
-## 🏆 GitHub Trophies
-
-![trophies](https://github-profile-trophy.vercel.app/?username=salehatayyab17&theme=radical&row=1&column=6)
-
 ##  Streak Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=salehatayyab17&theme=radical" width="100%" height="200" />
